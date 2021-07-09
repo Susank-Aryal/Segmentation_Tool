@@ -1,0 +1,38 @@
+===============================================================
+====================Segmentation App Guide=======================
+===============================================================
+
+What you can perform....
+--> Brightness and Contrast adjustments
+--> Segmentation by specifying threshold, fragmentation and smoothing value
+--> You can also overlap the results obtained from segmentation into the original image
+--> Apply filter on the original or edited image.
+
+==============================================================
+=====================Guide By: Susank Aryal======================
+==============================================================
+
+---------------------------------------------------------------------------
+----- Make sure to read it carefully before using the application.------
+---------------------------------------------------------------------------
+
+If you are using the app for the first time, the selected image path is displayed at the top of the application in white long box, just below which the filename of the image can be seen. The selected image is displayed on the right side of the application allowing the user to keep track of image as they make required adjustments.
+
+========================Change Image============================
+Make sure that the image you have selected is a correct one, if not click the Change Image button on the top right cornor of the app which opens up a window to change the selected image.
+
+=====================Brightness & Contrast========================
+
+There are Brightness & Contrast Adjustments that you can made on the selected image through sliders on the left side at brightness and contrast panel. Moving the slider automatically adjust the brightness and contrast of the image on the right side make sure to use both the sliders and adjust the image according as required.
+
+========================Segmentation============================
+
+You can  also perform segmentation of image by changing the parameters on the segmentation panel just below the brightness and contrast panel. To apply the segmentation adjust the threshold ,fragmentation value from the slider and select the smoothing value from the dropdown menu which only contains specific values of (Sigma 1, Signma 2, Sigma 3, Sigma4, Sigma 5). After selecting the appropriate value for each parameter make sure check in the radio button if you wish to overlap the segmentaed image on the original image with seperate colour , uncheck if you wish to see the segmentation result seperately. Then press the segmentation button to apply the setting on the image.
+
+===========================Filter===============================
+
+If required some pre-built filters can also be applied on the original or the segmented image from the filter panel on the bottom left cornor. You can select the desired filter form the dropdown menu and press apply to see the result applying the filter will display the filtered image seperately without makeing any changes on your segmented image.
+
+=========================Save & Close ===========================
+
+The complete change made on the image so far can be saved from the save button on the bottom right cornor where as pressing the close button right next to it discard all your changes and close the application.(Make sure to save before pressing the close button if you have made some important changes on the image)
