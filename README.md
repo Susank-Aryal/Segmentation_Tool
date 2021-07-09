@@ -16,8 +16,14 @@
 ![image](https://user-images.githubusercontent.com/66167662/125064430-63603180-e0d0-11eb-8ed7-29496ea5906f.png)
 
 ## Filters
+Complement Filter
+
 ![image](https://user-images.githubusercontent.com/66167662/125064459-6a873f80-e0d0-11eb-8b4d-4333f336852c.png)
 
+Standard-Deviation Filter
+
 ![image](https://user-images.githubusercontent.com/66167662/125064474-6d823000-e0d0-11eb-8f8f-2e12ae96f60f.png)
+
+Range Filter
 
 ![image](https://user-images.githubusercontent.com/66167662/125064486-707d2080-e0d0-11eb-8477-b2c20afcd522.png)
